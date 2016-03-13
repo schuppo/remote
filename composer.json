@@ -1,12 +1,6 @@
 {
-    "name": "illuminate/remote",
+    "name": "schuppo/remote",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Taylor Otwell",
-            "email": "taylorotwell@gmail.com"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.0",
